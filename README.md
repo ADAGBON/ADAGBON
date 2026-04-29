@@ -11,7 +11,7 @@ My over half a decade inside Nigeria's Premier Bank taught me how financial syst
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://engineering.altschoolafrica.com)  Class of 2026.
 - 🌱 I’m currently learning JavaScript, Reactjs, Python, Machine Learning, LLMs and Agentic Engineering.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or AI/ML Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Backend Engineer, or AI/ML Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing nadagbon@gmail.com.
 
 ---
